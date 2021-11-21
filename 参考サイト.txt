@@ -1,0 +1,40 @@
+【 参考サイト 】
+・複数の非同期処理を待つ：https://qiita.com/pioneerwalk/items/ebc3309abc04229dbd3a
+・FloatingActionButtonを2つ使用する：https://note.com/hatchoutschool/n/n19684f0a5fb8
+・HTML形式で色を指定する：https://note.com/hatchoutschool/n/nce2fc32662f2
+・アプリアイコンを変更：https://zenn.dev/kyo9bo/articles/196e949cc9dd3a
+・アプリタイトルを変更：https://algorithm.joho.info/flutter/flutter-apply-name/
+・アプリのテーマを変更：https://qiita.com/granoeste/items/352d19157c21cd35e21f
+・起動時に1度だけ実行する処理：https://qiita.com/yu124choco/items/b518a2757ce6d7d00134
+・タブとページで画面を切り替えられるようにする（画面ごとにプログラム分割可）：https://qiita.com/masa_mf3/items/038d9fda8c5ab17229a6
+　　→タブ遷移アニメーションの参考（アニメーション時間も指定可能）：https://dev.classmethod.jp/articles/basic_bottom_navigation_flutter/
+・アプリのテーマカラーを指定する：https://qiita.com/sekitaka_1214/items/e25f2f3b282b0ff382cf
+・FittedBoxで要素を左寄せにする：https://bukiyo-papa.com/fittedbox/
+・Expandedで要素の幅や高さを最大まで広げる：https://bukiyo-papa.com/expanded/
+・画像表示：https://qiita.com/yu124choco/items/a2710ec004d3425a2a0b
+・RowとExpandの組み合わせ方：https://nzigen.com/reference/flutter/2018-04-18-row-expanded/
+・ラジオボタン付きアラート表示：https://flutter.keicode.com/basics/radio.php
+　　→選択したラジオボタンをアラート内で反映する：https://teratail.com/questions/293834
+・テキストファイルの保存・読み込み：https://kehalife.com/flutter-file-load/
+・設定の保存・読み込み：https://qiita.com/yukiyamadajp/items/16ec45a7d5de947a93e3
+・Cardをタップできるようにする：https://www.it-swarm-ja.com/ja/material-design/flutter%EF%BC%9A%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F/838799341/
+・ListView：https://qiita.com/tasogarei/items/d41e4d0d3cc5dfae4314
+・
+・
+
+
+
+【 使用パッケージ 】
+・Flutter Blue（密集・密接判定）：https://pub.dev/packages/flutter_blue
+・Geolocator（緯度経度取得）：https://pub.dev/packages/geolocator
+・auto_size_text_pk（文字サイズ自動調整）：https://pub.dev/packages/auto_size_text_pk
+・
+
+
+
+【 関連パッケージ 】
+・Noise Meter（未使用）：https://pub.dev/packages/noise_meter
+・Flutter Sound：https://pub.dev/packages/flutter_sound
+・Flutter Audio Recorder：https://pub.dev/packages/flutter_audio_recorder
+・geolocator：https://pub.dev/packages/geolocator
+・
